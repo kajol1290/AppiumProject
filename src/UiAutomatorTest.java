@@ -16,7 +16,7 @@ public class UiAutomatorTest extends Base {
 		 int s = driver.findElementsByAndroidUIAutomator("new UiSelector().clickable(true)").size();
 		 System.out.println("Size is:"+s); 
 		 //  System.out.println(driver.findElementsByAndroidUIAutomator("new UiSelector().clickable(true)").size());
-		System.out.println("Hello World");
+		System.out.println("Hello World 3");
 		 
 		 
 	}
